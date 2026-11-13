@@ -12,7 +12,7 @@ Inspired by the Shader Advent Calendar 2024 arranged by [Mårten Rånge (@mrange
 
 Instead of a scheduled month-long celebration requiring participants to claim a specific day, the calendar format has been dropped entirely. 
 
-**This year serves as an open call to the community: Time to flood Shadertoy with Christmas cheer!**
+This year serves as an open call to the community: **Time to flood Shadertoy with Christmas cheer between December 1st and 25th!**
 
 ## 🎯 The Challenge
 
@@ -24,7 +24,7 @@ A challenge is hereby issued to all Shadertoyers to fiddle, create, and share fe
 2. **Tag:** When publishing the shader, the tag **`xmasshaderjam`** must be included so the community can easily search for and view everyone's creations.
 3. **Share:** Drop a link to the shader in the **Issues** tab of this repository to get it added to the gallery below!
 
-No schedules, no pull requests, and no deadlines. Just pure magic and holiday spirit. Let the coding begin!
+No claiming days and no pull requests. Just publish your shaders between December 1st and 25th. Let the magic and holiday spirit begin!
 
 ---
 
