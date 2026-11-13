@@ -38,6 +38,5 @@ Want to see all submissions at a glance? **[Browse all #xmasshaderjam results di
 
 | Author | Shader Link | Description / Title |
 | :--- | :--- | :--- |
-| *dathor* | *(Example Link)* | *Procedural Snow Globe* |
-| | | |
+| *dathor* | [Community Christmas Jam 2026](https://www.shadertoy.com/view/NcscWn) | An independent, community-organized push to flood Shadertoy with festive, winter-themed shaders between December 1st and 25th.Teaser. |
 | | | |
